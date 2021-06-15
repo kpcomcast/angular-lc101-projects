@@ -1,9 +1,10 @@
 .movies {
   color: darkcyan;
-  font-size: 2vw;
+  font-size: 1.4vw;
   margin: auto;
 }
 
 h3 {
   text-align: center;
+  text-decoration: underline;
 }

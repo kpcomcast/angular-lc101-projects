@@ -1,0 +1,9 @@
+.col-3 {
+  padding: 10px;
+}
+
+#mid {
+  border-right-style: dashed;
+  border-left-style: dashed;
+}
+

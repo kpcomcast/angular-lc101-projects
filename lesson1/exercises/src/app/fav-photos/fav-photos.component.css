@@ -1,9 +1,26 @@
 h3 {
    color: brown;
+   text-decoration: underline;
+}
+
+.photo {
+  width: 100%;
+}
+
+#photo1 {
+  width: 90%;
+}
+
+#photo2 {
+  width: 50%;
+}
+
+#photo3 {
+  width: 75%;
 }
 
 img {
-  height: 100px;
+  padding: 2px;
 }
 
 .photos {
